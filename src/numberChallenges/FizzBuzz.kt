@@ -1,4 +1,4 @@
-package NumberChallenges
+package numberChallenges
 
 fun main(args: Array<String>) {
     /*
