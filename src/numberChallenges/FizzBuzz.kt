@@ -7,19 +7,14 @@ fun main(args: Array<String>) {
     * instead of the number and for the multiples of five print “Buzz”.
     * For numbers which are multiples of both three and five print “FizzBuzz"
     */
-    var multi3 = 3
-    var multi5 = 5
+
     for (i in 1..100) {
-        if (i === multi3 && i === multi5) {
+        if (i % 3 == 0 && i % 5 == 0) {
             println("FizzBuzz")
-            multi3 += 3
-            multi5 += 5
-        } else if (i === multi3) {
+        } else if (i % 3 == 0) {
             println("Fizz")
-            multi3 += 3
-        } else if (i === multi5) {
+        } else if (i % 5 == 0) {
             println("Buzz")
-            multi5 += 5
         }
 
     }
