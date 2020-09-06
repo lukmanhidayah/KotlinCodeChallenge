@@ -134,4 +134,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Lukman Hidayah - [@manusia_melihat](https://twitter.com/username_lukman) - lukmanhidayah01@gmail.com
 
-Other project: [https://www.bandungquality.com](https://www.bandungquality.com)
+Other project: [https://www.bandungquality.com](https://www.bandungquality.com) - bandungquality.com
