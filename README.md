@@ -29,9 +29,8 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <h1 align="center">CODE CHALLENGE ON KOTLIN</h1>
-
-  <p align="center">
+  <h1 align="left">CODE CHALLENGE ON KOTLIN</h1>
+  <p align="left">
     How to solve easy algorithm challenge on kotlin 
   </p>
 
