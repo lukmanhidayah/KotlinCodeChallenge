@@ -29,7 +29,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <h3 align="center">Code challenge on kotlin</h3>
+  <h1 align="center">CODE CHALLENGE ON KOTLIN</h1>
 
   <p align="center">
     How to solve easy algorithm challenge on kotlin 
