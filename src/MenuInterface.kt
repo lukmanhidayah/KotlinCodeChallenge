@@ -1,0 +1,3 @@
+interface MenuInterface{
+    fun printMenu()
+}

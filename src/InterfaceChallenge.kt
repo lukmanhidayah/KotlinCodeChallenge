@@ -1,0 +1,3 @@
+interface InterfaceChallenge {
+    fun printChallenge()
+}
