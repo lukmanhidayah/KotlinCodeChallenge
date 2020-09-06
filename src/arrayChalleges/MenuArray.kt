@@ -1,14 +1,14 @@
 package arrayChalleges
 
-import Menu
-import MenuInterface
+import menu.Menu
+import menu.MenuInterface
 
 class MenuArray: MenuInterface {
     override fun printMenu() {
         val menu = Menu(
             "Array challenges",
             listOf("Diagonal Multiplication", "Print Right Triangle"),
-            "Back To Menu"
+            "Back To menu.Menu"
         )
         do {
             menu.printMenu()

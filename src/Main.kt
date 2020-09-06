@@ -1,10 +1,11 @@
 import numberChallenges.MenuNumber
 import arrayChalleges.MenuArray
+import menu.Menu
 
 
 fun main(args: Array<String>) {
     val menu = Menu(
-        "Main Menu",
+        "Main menu.Menu",
         listOf("Number Challenge", "Array Challenge"),
         "Exit"
     )

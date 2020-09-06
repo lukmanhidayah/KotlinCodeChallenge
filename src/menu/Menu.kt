@@ -1,3 +1,5 @@
+package menu
+
 open class Menu(private val title: String, private val arrayMenu: List<String>, private val exitTitle: String) :
     MenuInterface {
     override fun printMenu() {
